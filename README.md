@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 I am a 2nd year Software Engineering student at Neusoft Institute, Guangdong.
 
 - 💪 Tech I use regularly: [React](https://reactjs.org/), [Spring](https://spring.io/), [Docker](https://www.docker.com/)
-- 🔭 I’m currently learning: [Kubernetes](https://kubernetes.io/), [Apache Spark](https://spark.apache.org/)
+- 🔭 I’m currently learning: [Kubernetes](https://kubernetes.io/)
 - 📫 How to reach me: [twitter](https://twitter.com/AlQahOlic47), [mail](mailto:rohit.k.kesavan@gmail.com)
 - 😄 Pronouns: he/him
-- 🌙 Fun fact: I am a vampire...
