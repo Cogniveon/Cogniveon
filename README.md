@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-I am a 2nd year Software Engineering student at Neusoft Institute, Guangdong.
+I am a final year Software Engineering student at Neusoft Institute, Guangdong.
 
 - 💪 Tech I use regularly: [React](https://reactjs.org/), [Spring](https://spring.io/), [Docker](https://www.docker.com/)
 - 🔭 I’m currently learning: [Kubernetes](https://kubernetes.io/)
