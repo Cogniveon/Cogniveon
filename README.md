@@ -5,9 +5,8 @@
 Here are some ideas to get you started:
 -->
 
-I am a final year Software Engineering student at Neusoft Institute, Guangdong.
+I am a Software Engineer and coding enthusiast. Here, you can browse through the few of my hobby projects.
 
 - 💪 Tech I use regularly: [React](https://reactjs.org/), [Spring](https://spring.io/), [Docker](https://www.docker.com/)
 - 🔭 I’m currently learning: [Kubernetes](https://kubernetes.io/)
 - 📫 How to reach me: [twitter](https://twitter.com/AlQahOlic47), [mail](mailto:rohit.k.kesavan@gmail.com)
-- 😄 Pronouns: he/him
