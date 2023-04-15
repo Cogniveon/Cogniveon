@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-I am a Software Engineer and coding enthusiast. Here, you can browse through the few of my hobby projects.
+I am a Software Engineer and coding enthusiast. Here, you can browse through few of my hobby projects.
 
 - 💪 Tech I use regularly: [React](https://reactjs.org/), [Spring](https://spring.io/), [Docker](https://www.docker.com/)
 - 🔭 I’m currently learning: [Kubernetes](https://kubernetes.io/)
