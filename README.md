@@ -1,6 +1,6 @@
 # Cogniveon
 
-Cogniveon, an AI/Electric type Pokémon, merges technology and nature with its agile computerized body and AI-enabled eyes. It symbolizes the pinnacle of AI evolution in the Pokémon world, blending organic agility with advanced intelligence.
+Cogniveon, an AI/Electric type Pokémon, merges technology and nature with enhanced neurons for agility and cognitive vision. It symbolizes the pinnacle of AI evolution in the Pokémon world, blending organic agility with advanced intelligence.
 
 Top 4 Moves:
 
