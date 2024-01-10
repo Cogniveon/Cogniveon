@@ -1,11 +1,10 @@
-### Hi there 👋
+# Cogniveon
 
-<!--
-**Cogniveon/Cogniveon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+Cogniveon, an AI/Electric type Pokémon, merges technology and nature with its agile computerized body and AI-enabled eyes. It symbolizes the pinnacle of AI evolution in the Pokémon world, blending organic agility with advanced intelligence.
 
-I am a AI/ML Engineer and coding enthusiast. Here, you can browse through few of my hobby projects.
+Top 4 Moves:
 
-- 💪 Tech I use regularly: [PyTorch](https://pytorch.org/), [React](https://reactjs.org/), [Spring](https://spring.io/), [Docker](https://www.docker.com/)
-- 📫 How to reach me: [twitter](https://twitter.com/AlQahOlic47), [mail](mailto:rohit.k.kesavan@gmail.com)
+Electro Decode: Cogniveon analyzes and counters the opponent's next move, increasing its own speed and attack.
+Circuit Shock: A high-voltage electric attack that may paralyze the target, showcasing its electrical prowess.
+Data Stream: Cogniveon unleashes a torrent of digital energy, damaging and potentially confusing the opponent.
+Neural Sync: Boosts Cogniveon's special attack and defense by syncing its neural network with its surroundings, adapting to the battle conditions.
