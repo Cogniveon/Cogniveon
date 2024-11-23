@@ -1,6 +1,6 @@
 # Hello, I'm Rohit Krishnan! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer always eager to learn and explore new technologies. Below, you'll find a bit about my area of expertise and how to get in touch.
+Welcome to my GitHub profile! I'm a dynamic software engineer who is always eager to learn and explore new technologies. Below, you'll find a bit about my area of expertise and how to get in touch.
 
 ## 🛠️ Technologies & Tools
 
